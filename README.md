@@ -6,7 +6,7 @@
 **Internship:** Cognifyz Technology  
 **Domain:** C/C++ Programming  
 **LinkedIn:** [Harshwardhan Vishwakarma](https://www.linkedin.com/in/avyoraj/)  
-**GitHub:** [Your GitHub Profile]
+**GitHub:** [Harshwardhan Vishwakarma](https://github.com/Avyoraj)
 
 ## Tasks Completed (7 Out of 10):
 
