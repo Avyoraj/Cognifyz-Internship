@@ -1,1 +1,1 @@
-# Cognifyz-Internship-C-C-
+# Cognifyz-Internship C/C++
